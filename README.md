@@ -16,12 +16,12 @@
 - Assurer un lancement réussi
 
 # Développer un plan de lancement complet pour garantir un déploiement en douceur et l'intégration des utilisateurs
-Créer des supports d'accompagnement, tels que des guides d'utilisateur et des supports de formation
-Recueillir les commentaires des utilisateurs et des parties prenantes afin d'affiner le MVP et d'améliorer continuellement la solution
+- Créer des supports d'accompagnement, tels que des guides d'utilisateur et des supports de formation
+- Recueillir les commentaires des utilisateurs et des parties prenantes afin d'affiner le MVP et d'améliorer continuellement la solution
 
 # Sources de données
 
 Le projet utilise deux bases de données fictives 
 
-GMAO_db : Contient des uniquement des champs liés aux activités de maintenance et de réparation.
-Production_db : Inclut des informations sur l'utilisation des vélos, l'état des stations et les interactions avec les clients.
+GMAO_db : Contient des uniquement des champs liés aux activités de maintenance et de réparation
+Production_db : Inclut des informations sur l'utilisation des vélos, l'état des stations et les interactions avec les clients
