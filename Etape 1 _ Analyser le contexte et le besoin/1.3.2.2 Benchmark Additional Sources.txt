@@ -1,0 +1,26 @@
+1. **Governance Models and Impacts**:
+   - Ricci, M. (2015). Bike sharing: A review of evidence on impacts and processes of implementation and operation. Research in Transportation Business & Management. [Read the study](https://www.sciencedirect.com/science/article/pii/S2210539515000140).
+
+2. **User Behavior and Mathematical Modelling**:
+   - Fishman, E. (2016). Bikeshare: A review of recent literature. Transport Reviews. [Read the study](https://www.tandfonline.com/doi/abs/10.1080/01441647.2015.1033036).
+
+3. **Environmental Benefits and Data Analysis**:
+   - Zhang, Y., & Mi, Z. (2018). Environmental benefits of bike sharing: A big data-based analysis. Applied Energy. [Read the study](https://www.sciencedirect.com/science/article/pii/S0306261918304392).
+
+4. **Comparative Analysis of Usage Patterns**:
+   - McKenzie, G. (2019). Spatiotemporal comparative analysis of scooter-share and bike-share usage patterns in Washington, DC. Journal of Transport Geography. [Read the study](https://www.sciencedirect.com/science/article/pii/S0966692319302741).
+
+5. **Demand Prediction for Rebalancing**:
+   - Hulot, P., Aloise, D., & Jena, S.D. (2018). Towards station-level demand prediction for effective rebalancing in bike-sharing systems. Proceedings of the 24th ACM SIGKDD. [Read the study](https://dl.acm.org/doi/abs/10.1145/3219819.3219873).
+
+6. **New Mobility Services for Urban Transport**:
+   - Kamargianni, M., Li, W., Matyas, M., & Schäfer, A. (2016). A critical review of new mobility services for urban transport. Transportation Research Procedia. [Read the study](https://www.sciencedirect.com/science/article/pii/S2352146516302836).
+
+7. **Mobility as a Service (MaaS)**:
+   - Jittrapirom, P., Caiati, V., Feneri, A.M., & others. (2017). Mobility as a service: A critical review of definitions, assessments of schemes, and key challenges. Urban Planning. [Read the study](https://research.tue.nl/en/publications/mobility-as-a-service-a-critical-review-of-definition-assessments).
+
+8. **Integration with Public Transit**:
+   - Shaheen, S., & Chan, N. (2016). Mobility and the sharing economy: Potential to facilitate the first-and last-mile public transit connections. Built Environment. [Read the study](https://www.ingentaconnect.com/content/alex/benv/2016/00000042/00000004/art00005).
+
+9. **Sustainable Product and Service Development**:
+   - Charter, M., & Tischner, U. (2017). Sustainable solutions: developing products and services for the future. [Read the book](https://books.google.com/books?hl=en&lr=&id=VKo0DwAAQBAJ&oi=fnd&pg=PA1934&dq=solutions+to+challenges+faced+by+bicycle+sharing+companies&ots=zT9349qlHL&sig=4TP5xHW17FnEeUkxYBZW4rY3j_M).
